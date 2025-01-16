@@ -1,0 +1,21 @@
+.movies-container{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25% ;
+    color: black;
+    font-weight: bold;
+    gap: 5px;
+    row-gap: 2rem;
+ 
+}
+
+button{
+    border: 1px solid #bbb;
+    padding: 10px 20px;
+    border-radius: 12px;
+}
+
+button:hover{
+    border: 1px solid black;
+    color: white;
+    background-color:black ;
+}

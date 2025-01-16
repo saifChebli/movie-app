@@ -1,0 +1,11 @@
+.hero-section{
+    height: 70vh;
+    display: flex;
+    color: white;
+    font-weight: bold;
+     background-image: url('../../../public/image-background.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
