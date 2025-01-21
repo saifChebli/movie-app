@@ -1,9 +1,10 @@
-import React from "react";
+import React , {useState} from "react";
 import "./HeroSection.css";
 import image from "./image-1.png";
 import Navbar from "../Navbar/Navbar";
 
-const HeroSection = (props) => {
+const HeroSection = () => {
+
 
   return (
     <div className="hero-section flex flex-col">
